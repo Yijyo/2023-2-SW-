@@ -1,0 +1,160 @@
+﻿  AbilityManager.cpp
+  ActiveSkill.cpp
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\ActiveSkill.cpp(10,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\ActiveSkill.cpp(10,22): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  AlcoholSpray.cpp
+  BaseScene.cpp
+  BoosterShot.cpp
+  Boss.cpp
+  BossPattern.cpp
+  BossPatternEnemy.cpp
+  BossScene.cpp
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\BossScene.cpp(102,9): warning C4477: 'printf' : 서식 문자열 '%02d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '_Rep'입니다.
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\BossScene.cpp(102,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\BossScene.cpp(102,9): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\BossScene.cpp(102,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\BossScene.cpp(102,9): warning C4477: 'printf' : 서식 문자열 '%02d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 '_Rep'입니다.
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\BossScene.cpp(102,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\BossScene.cpp(102,9): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\BossScene.cpp(102,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\BossScene.cpp(102,9): warning C4477: 'printf' : 서식 문자열 '%02d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 '_Rep'입니다.
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\BossScene.cpp(102,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\BossScene.cpp(102,9): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\BossScene.cpp(102,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\BossScene.cpp(111,9): warning C4477: 'printf' : 서식 문자열 '%02d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\BossScene.cpp(111,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\BossScene.cpp(176,30): warning C4244: '=': '_Rep'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Rep=__int64
+          ]
+  Bullet.cpp
+  ClearScene.cpp
+  CreditScene.cpp
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\CreditScene.cpp(18,30): warning C4244: '=': 'double'에서 'SHORT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EndingScene.cpp
+  Enemy.cpp
+  Entity.cpp
+  GameManager.cpp
+  InfoScene.cpp
+  Ink.cpp
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\Ink.cpp(29,23): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\Ink.cpp(29,30): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\Ink.cpp(44,23): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\Ink.cpp(44,30): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  IntroScene.cpp
+  ItemSkill.cpp
+  코드를 생성하고 있습니다...
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\AbilityManager.cpp(342): warning C4715: 'AbilityManager::SelectInput': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  KF94Mask.cpp
+  Main.cpp
+  MainScene.cpp
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene.cpp(44,9): warning C4477: 'printf' : 서식 문자열 '%02d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '_Rep'입니다.
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene.cpp(44,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene.cpp(44,9): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene.cpp(44,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene.cpp(44,9): warning C4477: 'printf' : 서식 문자열 '%02d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 '_Rep'입니다.
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene.cpp(44,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene.cpp(44,9): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene.cpp(44,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene.cpp(44,9): warning C4477: 'printf' : 서식 문자열 '%02d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 '_Rep'입니다.
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene.cpp(44,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene.cpp(44,9): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene.cpp(44,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene.cpp(53,9): warning C4477: 'printf' : 서식 문자열 '%02d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene.cpp(53,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene.cpp(98,30): warning C4244: '=': '_Rep'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Rep=__int64
+          ]
+  MainScene2.cpp
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene2.cpp(99,9): warning C4477: 'printf' : 서식 문자열 '%02d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '_Rep'입니다.
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene2.cpp(99,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene2.cpp(99,9): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene2.cpp(99,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene2.cpp(99,9): warning C4477: 'printf' : 서식 문자열 '%02d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 '_Rep'입니다.
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene2.cpp(99,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene2.cpp(99,9): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene2.cpp(99,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene2.cpp(99,9): warning C4477: 'printf' : 서식 문자열 '%02d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 '_Rep'입니다.
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene2.cpp(99,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene2.cpp(99,9): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene2.cpp(99,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene2.cpp(108,9): warning C4477: 'printf' : 서식 문자열 '%02d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene2.cpp(108,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\MainScene2.cpp(173,30): warning C4244: '=': '_Rep'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Rep=__int64
+          ]
+  MainScene2Intro.cpp
+  BossSceneIntro.cpp
+  Meat.cpp
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\Meat.cpp(28,23): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\Meat.cpp(28,30): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\Meat.cpp(43,23): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\Meat.cpp(43,30): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\Meat.cpp(59,23): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\Meat.cpp(59,30): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  MeleeAttackSkill.cpp
+  Nuclear.cpp
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\Nuclear.cpp(43,17): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\Nuclear.cpp(43,24): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\Nuclear.cpp(59,17): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\Nuclear.cpp(59,24): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\Nuclear.cpp(75,17): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\Nuclear.cpp(75,24): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  NurseMajorBook.cpp
+  Player.cpp
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\Player.cpp(16,1): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\Player.cpp(15,137): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  Protecter.cpp
+  SceneManager.cpp
+  Shoes.cpp
+  Skill.cpp
+  spiderWeb.cpp
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\spiderWeb.cpp(41,17): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\spiderWeb.cpp(41,24): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  StrongEnemy.cpp
+C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\NewProject\StrongEnemy.cpp(12,15): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Utility.cpp
+  코드를 생성하고 있습니다...
+  NewProject.vcxproj -> C:\Users\ljhmu\OneDrive\바탕 화면\2023-2 SW설계기초 15조 게임 소스 코드\x64\Debug\NewProject.exe
